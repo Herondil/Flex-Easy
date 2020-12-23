@@ -1,0 +1,25 @@
+/* CSS styles */
+body {
+  display : flex;
+  background-color : lightgreen;
+}
+   
+div{
+  width : 100px;
+  height : 100px;
+  margin : 10px;
+  background-color : blue;
+}  
+
+#first{
+  flex-basis : 45%
+}
+
+#second{
+  background-color : pink;
+  flex-basis : 35%
+}
+
+#third{
+  flex-basis : 19%
+}
