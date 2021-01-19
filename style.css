@@ -23,3 +23,7 @@ div{
 #third{
   flex-basis : 19%
 }
+
+h1{
+	font-size: 5em
+}
